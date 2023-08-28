@@ -3,19 +3,19 @@
     "projectsArray": [
       {
         "projectName": "Data Science w/ Kaggle",
-        "projectImg": "images/kaggle.png",
+        "projectImg": "./images/kaggle.png",
         "projectDesc": "I am in the process of using data science using machine learning libraries such as sdklearn and keras. I participate in the data science competitions Kaggle provides in order to put the skills I learned into practice.",
         "projectLink": "https://www.kaggle.com/vladimirwlr"
       },
       {
         "projectName": "Web Development Studies",
-        "projectImg": "images/web.png",
+        "projectImg": "./images/web.png",
         "projectDesc": "I am currently learning web development technologies with the objective of using the skills I acquire on projects and professionally. This site is part of that effort. My studies in this area focus on javascript as a language with frontend frameworks like React being my main interest.",
         "projectLink": ""
       },
       {
         "projectName": "Post-Graduate Research",
-        "projectImg": "images/graduate.png",
+        "projectImg": "./images/graduate.png",
         "projectDesc": "I am currently going through a PhD program at Nagoya University. My field of study is psycholinguistics. I am researching how certain properties of the English language affect word processing in non-native speakers. I use Psychopy to develop and run experiments. I use the R programming language for running statistical analyses of the data I use in my research.",
         "projectLink": ""
       }
@@ -25,19 +25,19 @@
     "projectsArray": [
       {
         "projectName": "Kaggleでデータサイエンス",
-        "projectImg": "images/kaggle.png",
+        "projectImg": "./images/kaggle.png",
         "projectDesc": "sdklearnやkerasなどの機械学習ライブラリを使ってデータサイエンスを学んでいる最中です。学んだスキルを実践するために、Kaggleが提供するデータサイエンスコンテストに参加しています。",
         "projectLink": "https://www.kaggle.com/vladimirwlr"
       },
       {
         "projectName": "ウェブ開発の学習",
-        "projectImg": "images/web.png",
+        "projectImg": "./images/web.png",
         "projectDesc": "私は現在、ウェブ開発技術を学習しています。勉強で習得したスキルをプロジェクトやプロフェッショナルとして活用することを目的にしています。本サイトもその一例です。 この分野での私の勉強は、Reactのようなフロントエンド・フレームワークを中心にし、言語としてjavascriptがメインです。",
         "projectLink": ""
       },
       {
         "projectName": "大学院研究",
-        "projectImg": "images/graduate.png",
+        "projectImg": "./images/graduate.png",
         "projectDesc": "私は現在、名古屋大学の博士課程に在籍しています。研究分野は心理言語学です。 私は、英語の特定な特性が非ネイティブ話者の単語処理にどのような影響を与えるかを研究している。 私はPsychopyを使って実験を開発し、実行しています。 研究で扱うデータの統計分析を実施するためにRプログラミング言語を使用しています。",
         "projectLink": ""
       }

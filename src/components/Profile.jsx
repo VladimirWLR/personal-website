@@ -21,7 +21,7 @@ export default function Profile() {
           <div class="col-lg-6">
             <img
               class="profile-img"
-              src="images/profilepic.jpeg"
+              src="./images/profilepic.jpeg"
               alt="It's supposed to be my face."
             ></img>
           </div>
