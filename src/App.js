@@ -28,10 +28,10 @@ function App() {
         <div class="flex-wrapper">
           <Navbar />
           <Routes>
-            <Route path="./" element={<Profile />} />
-            <Route path="./resume" element={<Resume />} />
-            <Route path="./projects" element={<Projects />} />
-            <Route path="./contact" element={<Contact />} />
+            <Route path="/" element={<Profile />} />
+            <Route path="/resume" element={<Resume />} />
+            <Route path="/projects" element={<Projects />} />
+            <Route path="/contact" element={<Contact />} />
           </Routes>
           <Footer handleClick={handleClick} />
         </div>
