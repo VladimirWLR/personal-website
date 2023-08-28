@@ -1,0 +1,60 @@
+{
+  "en": {
+    "profileText": {
+      "helloText": "Hello",
+      "smallHeadingText": "I'm Vladimir Rodrigues",
+      "bodyText": "I'm currently going through a PhD at Nagoya University. My field of study is psycholinguistics, but I'm also interested in data science and web development. Currently, I'm using Python to learn and try out various things on Kaggle and I'm using Javascript with Node, express, React etc to work on some web application projects."
+    },
+    "linksText": {
+      "homeLink": "Home",
+      "resumeLink": "Resume",
+      "projectsLink": "Projects",
+      "contactLink": "Contact"
+    },
+    "resumeText": {
+      "headerText": "Resume (Click to Expand)",
+      "companyText": "Company name: ",
+      "roleText": "Role: "
+    },
+    "projectsText": {
+      "headerText": "Current Projects"
+    },
+    "contactText": {
+      "headerText": "Contact me",
+      "nameInput": "Name",
+      "emailInput": "Email",
+      "subjectInput": "Subject",
+      "msgInput": "Message",
+      "btnText": "Send"
+    }
+  },
+  "jp": {
+    "profileText": {
+      "helloText": "ようこそ",
+      "smallHeadingText": "ウラジミル ロドリゲスです",
+      "bodyText": "現在名古屋大学で博士号を追求しています。 専門分野は心理言語学、 しかしデータサイエンスやウェブアプリ開発にも興味があります。 最近、Pythonを学習しながらKaggleでいろいろを試していてJavascriptをNode、express、React等を使ってウェブ開発のプロジェクトに尽力しています。"
+    },
+    "linksText": {
+      "homeLink": "トップ",
+      "resumeLink": "履歴書",
+      "projectsLink": "プロジェクト",
+      "contactLink": "お問合せ"
+    },
+    "resumeText": {
+      "headerText": "履歴書（クリックで拡大）",
+      "companyText": "社名：",
+      "roleText": "役割："
+    },
+    "projectsText": {
+      "headerText": "現在のプロジェクト"
+    },
+    "contactText": {
+      "headerText": "お問合せ・ご相談",
+      "nameInput": "ご氏名",
+      "emailInput": "メールアドレス ",
+      "subjectInput": "お問合せの内容 ",
+      "msgInput": "お問合せのメッセージ",
+      "btnText": "送信"
+    }
+  }
+}

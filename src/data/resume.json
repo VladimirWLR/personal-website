@@ -1,0 +1,278 @@
+{
+  "en": [
+    {
+      "id": "PTW",
+      "title": "Pole to Win Inc.",
+      "period": "September 2022 - Current",
+      "role": "Customer Support",
+      "text": [
+        "【Work Outline】",
+        "・Email suppprt",
+        "・Technical and information requests",
+        "・Ticket escalation",
+        "・Other customer support tasks",
+        "【Main Attributions】",
+        "【CS】Provide support for games developed by client companies.",
+        "・English/French support for international customers.",
+        "・Main tools: Excel、Zendesk、Backlog",
+        "・Verify issues submitted by customers in-game.",
+        "【CS・Translation】Produce and translate escalation tickets for clients.",
+        "【Translation】Produce and translate templates for use on CS tasks.",
+        "【Translation】Produce and translate News and FAQ articles."
+      ]
+    },
+    {
+      "id": "NFD",
+      "title": "Nihon Fukushi University",
+      "period": "April 2021 - February 2023",
+      "role": "Part-time lecturer",
+      "text": [
+        "【Work Outline】",
+        "・Part-time lecturer",
+        "・Portuguese as foreign language",
+        "・Roughly 20-student classes",
+        "【Main Attributions】",
+        "【Lecturer】Give lessons. Create and prepare materials.",
+        "【Lecturer】Create the syllabus and lesson plans."
+      ]
+    },
+    {
+      "id": "TCU",
+      "title": "Federal Court of Accounts - TCU (Brazil)",
+      "period": "April 2015 - January 2018",
+      "role": "Translator",
+      "text": [
+        "【Work Outline】",
+        "・Fields of politics/economy, law/compliance and finance",
+        "・Translation checking and proofreading",
+        "・Languages:",
+        "- Portuguese",
+        "- English",
+        "- French",
+        "【Main Attributions】",
+        "【Translation】Certified translator. Translation of documents received by email from TCU.",
+        "【Translation】Certified translator. Proofreading of translated documents received by email from TCU."
+      ]
+    },
+    {
+      "id": "WLS",
+      "title": "Wizard Language School",
+      "period": "February 2016 - December 2017",
+      "role": "English Language Teacher",
+      "text": [
+        "【Work Outline】",
+        "・EFL Instructor",
+        "・4-10 students per class.",
+        "・Age range: High schoolers (15-18yo), working adults (20+, highest in their 60s)",
+        "・English as a foreign language",
+        "【Main Attributions】",
+        "・Follow school proprietary textbooks and methodology in implementing lesson plans",
+        "・Elaboration and conduct of special lessons based on holidays in the United States, England, etc.",
+        "・Conducting classes."
+      ]
+    },
+    {
+      "id": "IAG",
+      "title": "Instituto Ágora UFRN",
+      "period": "February 2016 - December 2017",
+      "role": "French Language Teacher",
+      "text": [
+        "【Work Outline】",
+        "・EFL Instructor",
+        "・10-20 students per class.",
+        "・Age range: Gradute and postgraduate students (18-30yo), university faculty and staff (25+, highest in their 60s)",
+        "・French as a foreign language",
+        "【Main Attributions】",
+        "・Follow school proprietary textbooks and methodology in implementing lesson plans",
+        "・Elaboration and conduct of special lessons based on holidays in the United States, England, etc.",
+        "・Conducting classes.",
+        "・Production of syllabus for the semester. Producing and organizing classes, tests, etc.",
+        "・Production/preparation of teaching materials (slides, sheets, videos, etc.)",
+        "・Creation of syllabuses, classes, etc. Conducting classes."
+      ]
+    },
+    {
+      "id": "UAB",
+      "title": "DETED/UAB - IFRN",
+      "period": "May 2010 - June 2011",
+      "role": "Textbook design and editing",
+      "text": [
+        "【Work Outline】",
+        "・Textbook design and editing",
+        "・Editing of textbooks for various disciplines",
+        "・Elaboration of the layout/design",
+        "・Preparation of files for printing",
+        "【Main Attributions】",
+        "・The design and layout of each book are created as a team. Editing tasks distributed among members.",
+        "・Gather images and illustrations while managing copyright.",
+        "・Production of illustrations and graphics.",
+        "【Main tools】Adobe Photoshop, Adobe InDesign"
+      ]
+    },
+    {
+      "id": "COI",
+      "title": "State Secretariat of Security/COINE, Rio Grande do Norte",
+      "period": "February 2008 - June/2009",
+      "role": "SE/Programmer",
+      "text": [
+        "【Work Outline】",
+        "SE/Programmer",
+        "Software development field",
+        "Development of software system to handle general affairs",
+        "Maintenance of software system to handle general affairs",
+        "System purpose: Managing personnel and police officers working under the umbrella of the state's Secretary of Security office",
+        "Java backend for HR and Accounting Departments",
+        "【Main Attributions】",
+        "[IT] Programming of general administration system.",
+        "Created prototype and started data migration.",
+        "It was a desktop application when I left the position, but we planned to make the front end a web-based",
+        "[Development languages] Java, SQL."
+      ]
+    }
+  ],
+  "jp": [
+    {
+      "id": "PTW",
+      "title": "株式会社ポールトゥウィンホールディングス(東証プライム：3657)",
+      "period": "2022年09月～現在",
+      "role": "カスタマーサポートOP",
+      "text": [
+        "【業務内容】",
+        "・メールサポート",
+        "・問い合わせ･相談",
+        "・エスカレーション対応",
+        "・その他/カスタマーサポート",
+        "【主な取り組み】",
+        "【CS】クライアント会社作のゲームのお問い合わせサポート。",
+        "海外のお客様のお問い合わせの英語対応。（稀にフランス語）",
+        "・Excel、Zendesk、Backlog等使用。",
+        "【CS】お問い合わせの件ゲーム内での検証。",
+        "【CS・翻訳】クライアントへのエスカレーション対応（日本語）。",
+        "【翻訳】お客様へのメールや対応テンプレートの作成・翻訳。",
+        "ニュースやFAQなどの作成・翻訳"
+      ]
+    },
+    {
+      "id": "NFD",
+      "title": "日本福祉大学",
+      "period": "2021年04月～2023年02月",
+      "role": "非常勤講師",
+      "text": [
+        "【業務内容】",
+        "・非常勤教授",
+        "・ポルトガル語",
+        "【主な取り組み】",
+        "【教員】ポルトガル語の教育。シラバス・授業などの作成。授業の実施。"
+      ]
+    },
+    {
+      "id": "TCU",
+      "title": "Federal Court of Accounts - TCU (Brazil)",
+      "period": "2015年04月～2018年01月",
+      "role": "翻訳者",
+      "text": [
+        "【業務内容】",
+        "・英語",
+        "外国語→外国語 TRADOS 翻訳チェック(校正) 政治・経済(分野) 法律・コンプライアンス(分野) 金融(分野)",
+        "・フランス語",
+        "外国語→外国語 TRADOS 政治・経済(分野) 法律・コンプライアンス(分野) 金融(分野)",
+        "・ポルトガル語",
+        "外国語→外国語 TRADOS 政治・経済(分野) 法律・コンプライアンス(分野) 金融(分野) ",
+        "【主な取り組み】",
+        "【翻訳】認定翻訳者。TCU様からメールでいただいた書類の翻訳。",
+        "【翻訳】認定翻訳者。TCU様からメールでいただいた翻訳のチェック。"
+      ]
+    },
+    {
+      "id": "WLS",
+      "title": "Wizard Language School",
+      "period": "2016年02月～2017年12月",
+      "role": "英語教師",
+      "text": [
+        "【業務内容】",
+        "・教員",
+        "・4－10人のクラス",
+        "・対象人物：高校生（15－18歳）、社会人（20歳+、最高齢者60代）",
+        "・英語",
+        "【主な取り組み】",
+        "・学校専有の教科書をフォローし、レッスンプランを実施",
+        "・アメリカ・イギリスなどの祝日に参考されて特別のレッスンの制作・実施",
+        "【教員】英語の教育。シラバス・授業などの作成。授業の実施。"
+      ]
+    },
+    {
+      "id": "IAG",
+      "title": "Instituto Ágora UFRN",
+      "period": "2016年02月～2017年12月",
+      "role": "フランス語教師",
+      "text": [
+        "【業務内容】",
+        "・教員",
+        "・10－20人のクラス",
+        "・対象人物：大学・大学院生（18－30歳）、大学の委員（25歳+、最高齢者60代）",
+        "・フランス語",
+        "【主な取り組み】",
+        "・学期のシラバス・授業・テストなどの制作",
+        "・教材の制作/準備（スライド、シート、動画など）",
+        "【教員】フランス語の教育。シラバス・授業などの作成。授業の実施。"
+      ]
+    },
+    {
+      "id": "UAB",
+      "title": "DETED/UAB - IFRN",
+      "period": "2010年05月～2011年06月",
+      "role": "教科書デザイン・編集",
+      "text": [
+        "【業務内容】",
+        "・教科書デザイン、編集",
+        "・各分野の教科書の原文の編集",
+        "・レイアウト・デザインの創作",
+        "・印刷会社のためにファイルの準備",
+        "【主な取り組み】",
+        "・各書のデザイン、レイアウトをチームで作成し、各員が編集作業を実施",
+        "・著作権を確認しながら、画像などを習得",
+        "・図形、イラストなどを社内で作成。",
+        "【主に使用される道具】Adobe Photoshop, Adobe InDesign"
+      ]
+    },
+    {
+      "id": "COI",
+      "title": "リオグランデ・ド・ノルテ州安全官 COINE",
+      "period": "2008年02月～2009年06月",
+      "role": "SE･プログラマー",
+      "text": [
+        "【業務内容】",
+        "・SE･プログラマー",
+        "・ソフト開発 業務・業種分類",
+        "・総務システム その他ソフト開発 業務",
+        "・警官や安全官の委員のデータを扱う総務システムのメンテナンス/開発",
+        "・人事・経理部署のためにJavaのバックエンドを使う総務システムの開発",
+        "【IT】総務システムのプログラミング。",
+        "・プロトタイプを作成し、データ移行開始。",
+        "・退社時デスクトップアプリケーションでしたが、フロントエンドをウェッブページにする計画でした。",
+        "【開発言語】Java、SQL。"
+      ]
+    },
+    {
+      "id": "TCN",
+      "title": "Technip",
+      "period": "2006年11月～2007年03月",
+      "role": "翻訳者・通訳者",
+      "text": [
+        "【業務内容】",
+        "・翻訳・通訳",
+        "・英語・ポルトガル語・日本語",
+        "【主な取り組み】",
+        "【翻訳】ガスプラントの機械のマニュアルなどの翻訳。",
+        "・プラントの運用に用いられる機会のマニュアルを受け、クライエントのためにポルトガル語に翻訳する。",
+        "【翻訳】建設会社とクライアントのPetrobrasのメールの翻訳・校正。",
+        "・書類/メールの依頼を社内通信（電話/メール）などで受け、完成次第送信する。",
+        "【通訳】建設現場で職員の相談・エンジニアの指示などの通訳。",
+        "・インスペクション/テスト/研修のスケジュールに合わせて、エンジニアと同行",
+        "・現場でエンジニアの指示またはクライエントの依頼を逐次通訳する",
+        "・爆発等の危機に関わるため、様々な確認を実施する。（例：パーツの視覚的確認など）",
+        "【通訳】MTGなどの通訳。"
+      ]
+    }
+  ]
+}
