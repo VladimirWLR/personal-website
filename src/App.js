@@ -2,6 +2,7 @@ import "bootstrap/dist/css/bootstrap.css";
 import "./styles.css";
 import { useState } from "react";
 import { Routes, Route } from "react-router-dom";
+import { createBrowserHistory } from 'history';
 import Navbar from "./components/Navbar";
 import Profile from "./components/Profile";
 import Resume from "./components/Resume";
@@ -10,7 +11,11 @@ import Contact from "./components/Contact";
 import Footer from "./components/Footer";
 import { LanguageProvider } from "./components/LanguageProvider";
 
-const App = () => {
+export const history = createBrowserHistory({
+  basename: process.env.PUBLIC_URL
+});
+
+function App() {
   const [lang, setLang] = useState("en");
 
   const handleClick = (e) => {
@@ -33,6 +38,6 @@ const App = () => {
       </div>
     </LanguageProvider>
   );
-};
+}
 
 export default App;
