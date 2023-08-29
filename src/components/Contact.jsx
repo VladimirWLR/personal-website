@@ -51,7 +51,6 @@ export default function Contact() {
           </label>
           <textarea className="form-control" name="" id="" rows="5"></textarea>
           <input type="text" name="_honey" style={{display:"none"}}></input>
-          <input type="hidden" name="_next" value="https://vladimirwlr.github.io/personal-website/thankyou"></input>
           <button className="contact-btn green" type="submit">
             {pageText.btnText}
           </button>
