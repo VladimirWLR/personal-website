@@ -26,6 +26,10 @@
       "subjectInput": "Subject",
       "msgInput": "Message",
       "btnText": "Send"
+    },
+    "thankyouText": {
+      "headerText": "Thank you for your message!",
+      "subheaderText": "I will respond to your inquiry as soon as time permits."
     }
   },
   "jp": {
@@ -55,6 +59,10 @@
       "subjectInput": "お問合せの内容 ",
       "msgInput": "お問合せのメッセージ",
       "btnText": "送信"
+    },
+    "thankyouText": {
+      "headerText": "お問い合わせありがとうございます！",
+      "subheaderText": "時間が許す限り折り返しご連絡させていただきますので、よろしくお願いいたします。"
     }
   }
 }

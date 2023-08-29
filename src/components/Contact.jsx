@@ -3,7 +3,6 @@ import "bootstrap/dist/js/bootstrap";
 import { useContext } from "react";
 import { LanguageContext } from "./LanguageOptions";
 import language from "../data/language.json";
-import RECAPTCHA, { ReCAPTCHA } from "react-google-recaptcha";
 import "../styles.css";
 
 export default function Contact() {
@@ -16,15 +15,16 @@ export default function Contact() {
     <div className="Contact">
       <h1>{pageText.headerText}</h1>
       <div className="contact-form container-fluid">
-        <form action="">
+        <form action="https://formsubmit.co/vladimirwlr@outlook.com" method="POST">
           <label className="form-label" htmlFor="nameInput">
             {pageText.nameInput}
           </label>
           <input
             className="form-control "
             type="text"
-            name="nameInput"
+            name="name"
             id="nameInput"
+            required
           />
           <label className="form-label " htmlFor="mailInput">
             {pageText.emailInput}
@@ -32,8 +32,9 @@ export default function Contact() {
           <input
             className="form-control "
             type="email"
-            name="mainInput"
+            name="email"
             id="mailInput"
+            required
           />
           <label className="form-label" htmlFor="subjectInput">
             {pageText.subjectInput}
@@ -43,11 +44,14 @@ export default function Contact() {
             type="text"
             name="subjectInput"
             id="subjectInput"
+            required
           />
           <label className="form-label " htmlFor="msgInput">
             {pageText.msgInput}
           </label>
           <textarea className="form-control" name="" id="" rows="5"></textarea>
+          <input type="text" name="_honey" style={{display:"none"}}></input>
+          <input type="hidden" name="_next" value="https://vladimirwlr.github.io/personal-website/thankyou"></input>
           <button className="contact-btn green" type="submit">
             {pageText.btnText}
           </button>

@@ -9,7 +9,9 @@ import Resume from "./components/Resume";
 import Projects from "./components/Projects";
 import Contact from "./components/Contact";
 import Footer from "./components/Footer";
+import Thankyou from "./components/Thankyou";
 import { LanguageProvider } from "./components/LanguageProvider";
+
 
 export const history = createBrowserHistory({
   basename: process.env.PUBLIC_URL
@@ -32,6 +34,7 @@ function App() {
             <Route path="/resume" element={<Resume />} />
             <Route path="/projects" element={<Projects />} />
             <Route path="/contact" element={<Contact />} />
+            <Route path="/thankyou" element={<Thankyou />} />
           </Routes>
           <Footer handleClick={handleClick} />
         </div>
