@@ -15,7 +15,7 @@ export default function Contact() {
     <div className="Contact">
       <h1>{pageText.headerText}</h1>
       <div className="contact-form container-fluid">
-        <form action="https://formsubmit.co/vladimirwlr@outlook.com" method="POST">
+        <form action="https://usebasin.com/f/c8ce6d3db772" method="POST">
           <label className="form-label" htmlFor="nameInput">
             {pageText.nameInput}
           </label>
@@ -49,8 +49,7 @@ export default function Contact() {
           <label className="form-label " htmlFor="msgInput">
             {pageText.msgInput}
           </label>
-          <textarea className="form-control" name="" id="" rows="5"></textarea>
-          <input type="text" name="_honey" style={{display:"none"}}></input>
+          <textarea className="form-control" name="message" id="" rows="5"></textarea>
           <button className="contact-btn green" type="submit">
             {pageText.btnText}
           </button>
